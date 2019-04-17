@@ -1,0 +1,15 @@
+C:\Users\Yassir\source\repos\Keylogger\Keylogger\bin\Debug\Keylogger.exe.config
+C:\Users\Yassir\source\repos\Keylogger\Keylogger\bin\Debug\Keylogger.exe
+C:\Users\Yassir\source\repos\Keylogger\Keylogger\bin\Debug\Keylogger.pdb
+C:\Users\Yassir\source\repos\Keylogger\Keylogger\obj\Debug\Keylogger.csprojAssemblyReference.cache
+C:\Users\Yassir\source\repos\Keylogger\Keylogger\obj\Debug\MainWindow.g.cs
+C:\Users\Yassir\source\repos\Keylogger\Keylogger\obj\Debug\App.g.cs
+C:\Users\Yassir\source\repos\Keylogger\Keylogger\obj\Debug\Keylogger_MarkupCompile.cache
+C:\Users\Yassir\source\repos\Keylogger\Keylogger\obj\Debug\Keylogger_MarkupCompile.lref
+C:\Users\Yassir\source\repos\Keylogger\Keylogger\obj\Debug\MainWindow.baml
+C:\Users\Yassir\source\repos\Keylogger\Keylogger\obj\Debug\Keylogger.g.resources
+C:\Users\Yassir\source\repos\Keylogger\Keylogger\obj\Debug\Keylogger.Properties.Resources.resources
+C:\Users\Yassir\source\repos\Keylogger\Keylogger\obj\Debug\Keylogger.csproj.GenerateResource.cache
+C:\Users\Yassir\source\repos\Keylogger\Keylogger\obj\Debug\Keylogger.csproj.CoreCompileInputs.cache
+C:\Users\Yassir\source\repos\Keylogger\Keylogger\obj\Debug\Keylogger.exe
+C:\Users\Yassir\source\repos\Keylogger\Keylogger\obj\Debug\Keylogger.pdb
